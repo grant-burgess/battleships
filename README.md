@@ -10,7 +10,7 @@ The Ship Shooting Game is a file based game that takes an input file and produce
 
 ## Design
 Class diagram
-[[https://github.com/grant-burgess/battleships/blob/master/img/class-diagram.png|alt=class diagram]]
+![Class diagram]([https://github.com/grant-burgess/battleships/blob/master/img/class-diagram.png)
 
 
 ## Project dependencies
