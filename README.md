@@ -1,7 +1,6 @@
 # Ship Shooting Game
-[![Build Status]
+[![Build Status](https://travis-ci.org/grant-burgess/battleships.svg?branch=master)](https://travis-ci.org/grant-burgess/battleships)
 
-(https://travis-ci.org/grant-burgess/battleships.svg?branch=master)](https://travis-ci.org/grant-burgess/battleships)
 The Ship Shooting Game is a file based game that takes an input file and produces an output file of the result.
 
 
